@@ -1,2 +1,14 @@
 # basketballngsports-guide
-HTML page archive and documentation
+
+资料页面发布仓库
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
